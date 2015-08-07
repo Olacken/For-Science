@@ -1,0 +1,16 @@
+[
+{
+  "modid": "forscience",
+  "name": "For Science",
+  "description": "A search technological based mod",
+  "version": "0.0.1",
+  "mcversion": "1.8",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Olacken"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
